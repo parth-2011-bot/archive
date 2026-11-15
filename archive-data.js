@@ -38,7 +38,7 @@ const ARCHIVE_ENTRIES = [
 
  {day:14, type:"website", title:"Vending machine", url:"https://parth-2011-bot.github.io/nov-14/", description:"OMG THIS one is LIKE MY PROLLY THE MOST FAV cause it soo cool tbh"},
 
- {day:15, type:"website", title:"The Museum of You", url:"https://parth-2011-bot.github.io/nov-15/", description:"So i thought i have some bad pics of you which i can make into a sort of musem but then i realised those pics are not really bad so it didnt turn out too good"},
+ {day:15, type:"website", title:"Choas editorr", url:"https://parth-2011-bot.github.io/nov-15/", description:"Bruh it basically combines maths and bromine so its peak"},
 
  {day:16, type:"website", title:"DOWN BAD SIM", url:"https://parth-2011-bot.github.io/nov-16", description:"Another one similar to BR Buearu which just shows how down bad i am"},
 
