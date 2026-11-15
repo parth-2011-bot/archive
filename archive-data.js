@@ -48,5 +48,5 @@ const ARCHIVE_ENTRIES = [
 
  {day:19, type:"pdf", title:"Pshh", url:"assets/magazine.pdf", description:"bruh its one of the coolest thing i made so no hints for this"},
 
- {day:20, type:"finale", title:"The Birthday", url:"https://parth-2011-bot.github.io/nov-20/", description:"So yea it is the like final main birthday wish website , now in my head it looked very good but i now realise it didnt turn out soo good afterall"}
+ {day:20, type:"finale", title:"The Birthday", url:"https://parth-2011-bot.github.io/nov-20/", description:"so i was planning to ask you if i could give you like a handmade card (ask you cause i didnt wanna make it akward) but i guess that aint happening no more so this one  it is the like final main birthday wish website , now in my head it looked very good but i now realise it didnt turn out soo good afterall"}
 ];
