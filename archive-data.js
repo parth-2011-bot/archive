@@ -16,7 +16,7 @@ const ARCHIVE_ENTRIES = [
 
  {day:3, type:"website", title:"Arcade", url:"https://nov-3.netlify.app/", description:"Okk so this is one of my fav ones cause its like a mini arcade"},
 
- {day:4, type:"website", title:"Website 04: Title Placeholder", url:"https://nov-4.netlify.app/", description:"Now i dont really like this one cause its just another generic countdown website similar to of day 1 but diffrent yk themed"},
+ {day:4, type:"website", title:"Mini library", url:"https://nov-4.netlify.app/", description:"Now i dont really like this one cause its just another generic countdown website similar to of day 1 but diffrent yk themed"},
 
  {day:5, type:"website", title:"Rangeela", url:"https://nov-5.netlify.app/", description:"Well this i wanted to recreate yk fluid color effect but it didnt work so its like yk same as website 4 another generic one"},
 
