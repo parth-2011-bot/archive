@@ -16,13 +16,13 @@ const ARCHIVE_ENTRIES = [
 
  {day:3, type:"website", title:"Arcade", url:"https://nov-3.netlify.app/", description:"Okk so this is one of my fav ones cause its like a mini arcade"},
 
- {day:4, type:"website", title:"Mini library", url:"https://nov-4.netlify.app/", description:"Now i dont really like this one cause its just another generic countdown website similar to of day 1 but diffrent yk themed"},
+ {day:4, type:"website", title:"Mini library", url:"https://nov-4.netlify.app/", description:"Now i dont really like this one cause its just another generic countdown website similar to of day 1 but diffrent yk themed(not the best you can skip)"},
 
- {day:5, type:"website", title:"Rangeela", url:"https://nov-5.netlify.app/", description:"Well this i wanted to recreate yk fluid color effect but it didnt work so its like yk same as website 4 another generic one"},
+ {day:5, type:"website", title:"Rangeela", url:"https://nov-5.netlify.app/", description:"Well this i wanted to recreate yk fluid color effect but it didnt work so its like yk same as website 4 another generic one(again not the best you can skip)"},
 
  {day:6, type:"website", title:"Very serious website", url:"https://roaring-sable-db14a1.netlify.app/", description:"Now this is another one of my fav ones cause i had fun coding it and it looks cool and is pretty distinct from others too"},
 
- {day:7, type:"website", title:"Aureflora", url:"https://nov-7.netlify.app/", description:"So basically the concept of this one is ,its like a scientfic journal on a flower and that flower is a metaphor for you"},
+ {day:7, type:"website", title:"Aureflora", url:"https://nov-7.netlify.app/", description:"So basically the concept of this one is ,its like a scientfic journal on a flower and that flower is a metaphor for you(again not the best you can skip)"},
 
  {day:8, type:"website", title:"Shinchann", url:"https://parth-2011-bot.github.io/nov-8/", description:"Now this one i also had fun coding cause i had to yk draw stuff using code and BRUH ITS SHINCHAN THEMED so yea"},
 
@@ -30,7 +30,7 @@ const ARCHIVE_ENTRIES = [
 
  {day:10, type:"website", title:"THE BROMINE CHRONICLES", url:"https://parth-2011-bot.github.io/nov-10/", description:"Again i'd say its like a middle range one cause its similar to shinchan one but its not too generic"},
 
- {day:11, type:"website", title:"Clockworks", url:"https://parth-2011-bot.github.io/nov-11/", description:"Now this is the one i hate the most thats why after this i tried to switch things up cause it toooo generic and like boring"},
+ {day:11, type:"website", title:"Clockworks", url:"https://parth-2011-bot.github.io/nov-11/", description:"Now this is the one i hate the most thats why after this i tried to switch things up cause it toooo generic and like boring(VERY terrible you can skip)"},
 
  {day:12, type:"website", title:"The Unlisted Programme", url:"https://nov-12.netlify.app/", description:"So basically on surface it looks like any other website but if you go to channel number 7 on the tv on countdown page it shows a link to archieve with a code below it which you can decode to like solve an ARG"},
 
