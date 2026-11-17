@@ -38,7 +38,7 @@
     left.appendChild(el("span", "status", unlocked ? "AVAILABLE" : "LOCKED"));
     if (!unlocked) left.appendChild(el("p", "when", "Unlocks " + fmtUnlock(d.day)));
 
-    var label = d.type === "pdf" ? "Open Magazine" : d.type === "finale" ? "Open the Birthday Site" : "Visit Website";
+    var label = d.type === "pdf" ? "click" : d.type === "finale" ? "Open the Birthday Site" : "Visit Website";
     var hasUrl = d.url && d.url.trim() !== "";
     var link = el("a", "btn" + (unlocked && hasUrl ? "" : " off"), label);
     if (unlocked && hasUrl) { link.href = d.url; link.target = "_blank"; link.rel = "noopener"; }
